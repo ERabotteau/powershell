@@ -32,7 +32,7 @@ $MyLogfile = "c:\var\logs\$ScriptName.log"
 ###
 # Change values to right one"
 $credentialsFolder="F:\Google Drive\PowerShell\Credentials\"
-$User = "rabotteau@sogeclairis.fr"
+$User = XXX
 
 
 
